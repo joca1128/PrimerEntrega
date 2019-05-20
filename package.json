@@ -1,0 +1,15 @@
+{
+  "name": "entrega_uno",
+  "version": "1.0.0",
+  "description": "Pimera entrega",
+  "main": "EjemploCallback.js",
+  "dependencies": {
+    "yargs": "^13.2.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jorge joecastillogo@unal.edu.co",
+  "license": "ISC"
+}
